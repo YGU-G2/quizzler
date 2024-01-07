@@ -25,6 +25,22 @@ In addition to the questions, the app also displays a score counter at the top o
 ## Getting Started
 Clone this repository and open it in your IDE. Run the app on your emulator or device, and then push the source code to your own GitHub repository in this organization.
 
+## How to Complete the Lab
+- Use this repository template to create a new repository in the `YGU-G2` organization.
+![Use the repository template](screenshots/1.png)
+![Create a new repository](screenshots/2.png)
+![Select the organization](screenshots/3.png)
+**Repository name:** `quizzler-yourusername-date`
+e.g. `quizzler-johndoe-1-7-2024`
+or `quizzler-janedoe-2024-1-7`
+- Clone the repository to your local machine.
+![Clone the repository](screenshots/4.png)
+![Clone the repository](screenshots/5.png)
+- Open the project in your IDE.
+- Complete the app according to the specifications below.
+- Commit your code frequently and push to GitHub.
+- Assign your instructor as a collaborator on GitHub when you are done or when you need help.
+
 ### Deliverables
 - **Complete the app.** The app should display the questions and answers, and keep track of the user's score.
 - **Commit your code to GitHub frequently.** Aim for at least one commit every 30 minutes.
